@@ -1,4 +1,5 @@
 Spring Login form to authenticate users through an LDAP Server.
+Development time 6 hours.
 
 An example of web application for user access management realized with Spring Boot, Spring Security and Spring Data LDAP.
 
